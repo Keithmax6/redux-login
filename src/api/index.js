@@ -1,0 +1,1 @@
+export const url = 'http://weearnsinternational.in/shop_app/api/admin/login?email=admin@weshop.com&password=Asdf@1234&message=sample'
